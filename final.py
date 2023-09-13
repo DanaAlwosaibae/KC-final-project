@@ -122,6 +122,7 @@ Toyota = {
 
 
 # male brands
+
 skincare_brand_male = ['cearaVe', 'Olay', 'cetaphill']
 clothes_brand_male = ['Gucci', 'Zara', 'Nike']
 cars_brand = ['BMW', 'Mercedes-benz', 'Toyota']
